@@ -40,7 +40,7 @@ If your CS50 installation uses custom paths, supply the appropriate `-I` and `-L
 
 ## Limitations
 
-The program does not reject repeated candidate names within a ballot. Equal-strength pairs retain the order produced by the sorting implementation, and the program prints the first source candidate if more than one exists.
+The program does not reject repeated candidate names within a ballot. The program prints the first source candidate if more than one exists.
 
 ## Context
 
